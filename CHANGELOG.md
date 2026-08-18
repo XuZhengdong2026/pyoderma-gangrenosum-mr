@@ -1,5 +1,20 @@
 # Changelog
 
+## v1.1.1 (2026-08-18, post-archive maintenance; not published on Zenodo)
+
+### Fixed
+- `results/MR_results_summary.csv` replaced with the final strict-LD-clumped
+  estimates (IBD/CD/UC, FinnGen R5 and R12); added
+  `results/MR_instrument_F_stats.csv` (mean/min F statistics).
+- Added `results/S01_R12_sensitivity_reverse_MR.csv` (R12 sensitivity MR plus
+  relaxed-threshold reverse MR, Steiger-filtered) and the raw
+  `results/PG_to_*_steiger_mr.csv` outputs.
+- Added `results/Table_S15_mrpresso.csv` (MR-PRESSO for CD and UC against
+  FinnGen R5 and R12).
+- Manuscript v5.1 errata: Table 1 GSE75214 sample counts, Table 3 white-blood-cell
+  step-2 SNP count, GSE298908 GEO reference title, NanoString panel naming,
+  Figure 1 working-model legend, author ORCIDs and word-count labels.
+
 ## v1.1.0 (2026-08-18)
 
 Archived at Zenodo (DOI: 10.5281/zenodo.21991327).

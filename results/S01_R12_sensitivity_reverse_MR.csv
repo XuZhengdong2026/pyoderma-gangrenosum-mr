@@ -1,0 +1,24 @@
+analysis,exposure,outcome,threshold,method,nsnp,beta,se,pval,OR,OR_lo,OR_hi,Q,Q_p,egger_int_p
+Forward MR (FinnGen R12),IBD,PG,,IVW,126,0.110647,0.053809,0.04,1.117,1.005,1.241,138.9,0.187,0.121
+Forward MR (FinnGen R12),CD_deLange,PG,,IVW,76,0.111541,0.049885,0.0255,1.118,1.014,1.233,94.76,0.0613,0.287
+Forward MR (FinnGen R12),UC_deLange,PG,,IVW,51,0.011929,0.055853,0.831,1.012,0.907,1.129,42.62,0.761,0.677
+"Reverse MR (PG to exposure, Steiger-filtered)",IBD,IBD,5e-05,Inverse variance weighted,3,0.011903,0.016904,0.4813,1.012,0.979,1.0461,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",IBD,IBD,5e-05,MR Egger,3,0.166565,0.433068,0.7662,1.1812,0.5055,2.7604,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",IBD,IBD,5e-05,Weighted median,3,0.010311,0.020377,0.6128,1.0104,0.9708,1.0515,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",IBD,IBD,5e-05,Weighted mode,3,0.008485,0.022154,0.7386,1.0085,0.9657,1.0533,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",CD,CD,5e-05,Inverse variance weighted,42,0.004506,0.00463,0.3305,1.0045,0.9954,1.0137,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",CD,CD,5e-05,MR Egger,42,0.007407,0.00594,0.2196,1.0074,0.9958,1.0192,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",CD,CD,5e-05,Weighted median,42,0.013022,0.007297,0.07432,1.0131,0.9987,1.0277,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",CD,CD,5e-05,Weighted mode,42,0.014163,0.008665,0.1098,1.0143,0.9972,1.0316,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",UC,UC,5e-05,Inverse variance weighted,45,-0.003265,0.004424,0.4606,0.9967,0.9881,1.0054,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",UC,UC,5e-05,MR Egger,45,-0.004286,0.0057,0.4562,0.9957,0.9847,1.0069,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",UC,UC,5e-05,Weighted median,45,-0.002811,0.006635,0.6718,0.9972,0.9843,1.0102,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",UC,UC,5e-05,Weighted mode,45,-0.004455,0.006916,0.5228,0.9956,0.9822,1.0091,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",CD,CD,5e-06,Inverse variance weighted,7,0.002181,0.008895,0.8063,1.0022,0.9849,1.0198,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",CD,CD,5e-06,MR Egger,7,0.009357,0.014839,0.556,1.0094,0.9805,1.0392,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",CD,CD,5e-06,Weighted median,7,0.01502,0.011856,0.2052,1.0151,0.9918,1.039,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",CD,CD,5e-06,Weighted mode,7,0.016542,0.013392,0.2629,1.0167,0.9903,1.0437,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",UC,UC,5e-06,Inverse variance weighted,7,0.001704,0.008614,0.8431,1.0017,0.9849,1.0188,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",UC,UC,5e-06,MR Egger,7,0.000482,0.013606,0.9731,1.0005,0.9742,1.0275,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",UC,UC,5e-06,Weighted median,7,-2.6e-05,0.011202,0.9981,1.0,0.9783,1.0222,,,
+"Reverse MR (PG to exposure, Steiger-filtered)",UC,UC,5e-06,Weighted mode,7,-0.000383,0.011276,0.974,0.9996,0.9778,1.022,,,

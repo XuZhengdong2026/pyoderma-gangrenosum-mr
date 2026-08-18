@@ -19,8 +19,14 @@ initial release (v1.0.0, DOI: 10.5281/zenodo.21947642).
   `PG_ROOT` (default: the original machine's `outputs` directory); set
   `PG_ROOT` to your own output directory to run elsewhere.
 - `save_mrpresso_r5.R` uses a fixed random seed (20260814); the archived
-  MR-PRESSO R5 output is in `results/CD_UC_R5_mrpresso.csv/.txt/.rds` and
-  `Table_S15_mrpresso_R5.csv`.
+  MR-PRESSO output is in `results/CD_UC_R5_mrpresso.csv/.txt/.rds`,
+  `results/Table_S15_mrpresso.csv` (R5 and R12) and
+  `results/Table_S15_mrpresso_R5.csv`.
+- `results/S01_R12_sensitivity_reverse_MR.csv` and the
+  `results/PG_to_*_steiger_mr.csv` files contain the R12 sensitivity MR and the
+  relaxed-threshold reverse MR (Steiger-filtered) used for Supplementary Table S1.
+- `results/MR_results_summary.csv` and `results/MR_instrument_F_stats.csv`
+  contain the final strict-LD-clumped MR estimates and instrument F statistics.
 - `make_reproducibility_tables.py` assembles the ODE summary, full Enrichr
   tables and MR-PRESSO R5 table; set `TX_DATA_OUT` to the directory containing
   the raw Enrichr output if it differs from the default.
