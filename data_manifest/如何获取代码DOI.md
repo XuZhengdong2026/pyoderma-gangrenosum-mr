@@ -33,6 +33,6 @@ v1.0.0 DOI 等元数据），GitHub 集成会自动读取。
 
 ## 稿件中建议的写法
 
-> Analysis code for instrument selection, MR, mediation, specificity, transcriptomic (including the independent GSE280220 validation), network and reproducibility analyses is available at https://github.com/XuZhengdong2026/pyoderma-gangrenosum-mr (version v1.1.0; DOI: 10.5281/zenodo.XXXXXXX).
+> Analysis code for instrument selection, MR, mediation, specificity, transcriptomic (including the independent GSE280220 validation), network and reproducibility analyses is available at https://github.com/XuZhengdong2026/pyoderma-gangrenosum-mr (version v1.1.0; DOI: 10.5281/zenodo.21991327).
 
 把版本号和 DOI 替换成实际值后，填入两份稿件的 Data Availability 声明即可。

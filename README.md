@@ -66,6 +66,6 @@ MIT (see `LICENSE`). All input datasets remain subject to their original data-us
 
 ## Citation
 
-Please cite the associated manuscript once published, and this repository by its GitHub URL and DOI: https://github.com/XuZhengdong2026/pyoderma-gangrenosum-mr (version v1.1.0; DOI: `10.5281/zenodo.XXXXXXX`, to be assigned).
+Please cite the associated manuscript once published, and this repository by its GitHub URL and DOI: https://github.com/XuZhengdong2026/pyoderma-gangrenosum-mr (version v1.1.0; DOI: `10.5281/zenodo.21991327`).
 
 Previous version: 10.5281/zenodo.21947642 (v1.0.0).

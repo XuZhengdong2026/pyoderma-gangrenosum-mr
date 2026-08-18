@@ -2,6 +2,8 @@
 
 ## v1.1.0 (2026-08-18)
 
+Archived at Zenodo (DOI: 10.5281/zenodo.21991327).
+
 ### Added
 - Independent PG skin transcriptome validation in **GSE280220** (NanoString
   nCounter Human Inflammation panel v2; 5 PG lesions, 2 Sweet syndrome lesions,
