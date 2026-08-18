@@ -1,0 +1,5 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval","exposure_name"
+"ieu-a-294","finngen_R12_L12_PYODERMA","Pyoderma (FinnGen R12)","Inflammatory bowel disease || id:ieu-a-294","Inverse variance weighted",126,0.110550181104231,0.0538185362285438,0.0399632706731508,"IBD -> PG (R12)"
+"ieu-a-294","finngen_R12_L12_PYODERMA","Pyoderma (FinnGen R12)","Inflammatory bowel disease || id:ieu-a-294","MR Egger",126,-0.076168358082264,0.131063879712506,0.562191212840567,"IBD -> PG (R12)"
+"ieu-a-294","finngen_R12_L12_PYODERMA","Pyoderma (FinnGen R12)","Inflammatory bowel disease || id:ieu-a-294","Weighted median",126,0.0496779442986974,0.0804456546236638,0.536882419592644,"IBD -> PG (R12)"
+"ieu-a-294","finngen_R12_L12_PYODERMA","Pyoderma (FinnGen R12)","Inflammatory bowel disease || id:ieu-a-294","Weighted mode",126,-0.0270573049984142,0.133861210406602,0.840144053875344,"IBD -> PG (R12)"

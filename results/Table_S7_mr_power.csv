@@ -1,0 +1,11 @@
+Outcome,OR,Power (%),IVW SE (log OR)
+FinnGen R5,1.2,74.8,0.0694
+FinnGen R5,1.3,96.6,0.0694
+FinnGen R5,1.5,100.0,0.0694
+FinnGen R5,2.0,100.0,0.0694
+FinnGen R5,OR at 80% power,1.21,0.0694
+FinnGen R12,1.2,98.4,0.0444
+FinnGen R12,1.3,100.0,0.0444
+FinnGen R12,1.5,100.0,0.0444
+FinnGen R12,2.0,100.0,0.0444
+FinnGen R12,OR at 80% power,1.13,0.0444

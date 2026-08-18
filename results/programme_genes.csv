@@ -1,0 +1,43 @@
+programme,gene,skin_PG_fc,gut_CD_ileum_fc,gut_UC_colon_fc
+Neutrophil chemokines,CXCL1,6.8126,1.5708,2.8158
+Neutrophil chemokines,CXCL2,2.8744,1.1249,1.9211
+Neutrophil chemokines,CXCL3,3.9785,0.4214,1.0877
+Neutrophil chemokines,CXCL5,6.9524,1.3412,1.0643
+Neutrophil chemokines,CXCL6,4.5976,0.8445,1.0151
+Neutrophil chemokines,CXCL8,6.1036,2.0718,2.3575
+IL-1 axis,IL1A,2.5014,1.3166,1.8416
+IL-1 axis,IL1B,5.669,2.6595,3.0421
+IL-1 axis,IL1RN,1.7468,1.4995,2.3452
+IL-1 axis,IL18,-1.5621,0.3917,0.2065
+IL-1 axis,IL36B,-0.1856,-0.025,-0.0212
+IL-1 axis,IL36G,2.7267,-0.039,0.0104
+JAK-STAT,JAK2,1.5561,0.7675,0.8521
+JAK-STAT,STAT3,0.8338,0.3575,0.4841
+JAK-STAT,SOCS3,4.2869,1.1272,2.0644
+JAK-STAT,IL6,3.1944,1.2879,1.4558
+JAK-STAT,IL6R,1.6729,-0.5376,-0.5865
+JAK-STAT,IL6ST,0.1055,0.2979,0.7091
+TNF/NF-kB,TNF,1.6553,0.1804,0.6159
+TNF/NF-kB,NFKB1,1.0614,0.278,0.0988
+TNF/NF-kB,NFKB2,1.4236,0.2746,0.7267
+TNF/NF-kB,RELA,0.0171,0.004,0.3701
+TNF/NF-kB,TNFAIP3,2.7902,0.1382,0.5422
+TNF/NF-kB,TNFAIP6,2.8186,1.8417,1.8944
+Neutrophil/myeloid,S100A8,6.6678,2.4335,3.2604
+Neutrophil/myeloid,S100A9,6.6445,0.9734,1.6874
+Neutrophil/myeloid,CSF3R,5.5375,1.2794,1.5251
+Neutrophil/myeloid,FCGR3B,5.0058,2.0654,1.8359
+Neutrophil/myeloid,CD177,3.0533,1.3935,-2.1156
+Neutrophil/myeloid,CAMP,1.1051,-0.131,-0.016
+Neutrophil/myeloid,LTF,5.0881,0.1766,0.7662
+Neutrophil/myeloid,MMP9,4.4211,0.3598,1.8307
+Extracellular matrix,COL11A1,3.4918,0.0139,0.0516
+Extracellular matrix,COL1A1,0.3477,0.8505,1.6315
+Extracellular matrix,COL3A1,0.8103,0.8287,1.3055
+Extracellular matrix,MMP1,7.9533,3.3218,3.2497
+Interferon-stimulated,MX1,1.1815,0.0629,0.7268
+Interferon-stimulated,ISG15,1.8195,0.0844,0.1111
+Interferon-stimulated,OAS1,0.9673,0.1233,-0.2523
+Interferon-stimulated,OAS2,2.7094,0.7696,1.6565
+Interferon-stimulated,IFIT1,-0.1893,-0.1895,0.0532
+Interferon-stimulated,IFIT3,1.9608,0.398,0.8302

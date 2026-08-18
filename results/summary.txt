@@ -1,0 +1,4 @@
+shared_genes=19278
+rho_skinPG_vs_gutCD_ileum=0.2238	p=1.962e-217
+rho_skinPG_vs_gutUC_colon=0.2617	p=3.011e-299
+same_sign_CD=0.5314	same_sign_UC=0.5424

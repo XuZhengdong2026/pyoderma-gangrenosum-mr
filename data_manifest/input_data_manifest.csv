@@ -1,0 +1,21 @@
+dataset,id_or_accession,source,use
+IBD GWAS,ieu-a-294,OpenGWAS,exposure
+CD GWAS,ebi-a-GCST004132,OpenGWAS,exposure
+UC GWAS,ebi-a-GCST004133,OpenGWAS,exposure
+PG outcome R5,finn-b-L12_PYODERMA,FinnGen R5 via OpenGWAS,outcome
+PG outcome R12,L12_PYODERMA,FinnGen R12 summary statistics,outcome (replication)
+Blood-cell traits,GCST90002394-GCST90002407,GWAS Catalog,mediators
+Immune-cell subsets,GCST90001391-GCST90001560,OpenGWAS (Orrù 2020),mediators
+Psoriasis,GCST90019017,OpenGWAS,specificity outcome
+Atopic dermatitis,GCST90027161,OpenGWAS,specificity outcome
+Vitiligo,finn-b-L12_VITILIGO,OpenGWAS,specificity outcome
+Hidradenitis suppurativa,finn-b-L12_HIDRADENITISSUP,OpenGWAS,specificity outcome
+Alopecia areata,finn-b-L12_ALOPECAREATA,OpenGWAS,specificity outcome
+Erythema nodosum,finn-b-L12_ERYTHEMANODOSUM,OpenGWAS,specificity outcome
+PG skin transcriptome,GSE298908,NCBI GEO,skin expression
+PG skin transcriptome (validation),GSE280220,NCBI GEO,independent skin expression validation
+IBD gut transcriptome,GSE75214,NCBI GEO,gut expression
+CXCL8 pQTL,ebi-a-GCST90011994,OpenGWAS,drug-target MR
+IL-1RA pQTL,prot-a-1504,OpenGWAS,drug-target MR
+TNF pQTL,prot-a-3029,OpenGWAS,drug-target MR
+IL-1RA pQTL (sensitivity),ebi-a-GCST90019460,OpenGWAS,drug-target MR

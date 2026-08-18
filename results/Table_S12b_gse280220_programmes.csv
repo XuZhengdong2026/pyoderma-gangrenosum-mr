@@ -1,0 +1,7 @@
+﻿programme,n_panel_genes,n_up_PG,mean_log2FC_GSE280220,mean_log2FC_GSE298908,direction_consistent,genes
+IL-1 axis,6,3,0.4975,1.816,True,IL1A;IL1B;IL1RN;IL18;IL36B;IL36G
+Interferon-stimulated,2,2,1.6207,1.4082,True,MX1;ISG15
+JAK-STAT,6,4,1.183,1.9416,True,JAK2;STAT3;SOCS3;IL6;IL6R;IL6ST
+Neutrophil chemokines,2,2,3.1474,5.2199,True,CXCL1;CXCL2
+Neutrophil/myeloid,6,5,3.7325,4.6904,True,S100A8;S100A9;CSF3R;CAMP;LTF;MMP9
+TNF/NF-kB,6,4,0.6594,1.6277,True,TNF;NFKB1;NFKB2;RELA;TNFAIP3;TNFAIP6

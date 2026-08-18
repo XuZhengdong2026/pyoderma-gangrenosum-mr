@@ -1,0 +1,5 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval","exposure_name"
+"ebi-a-GCST004133","finngen_R12_L12_PYODERMA","Pyoderma (FinnGen R12)","Ulcerative colitis || id:ebi-a-GCST004133","Inverse variance weighted",51,0.0119564485146943,0.0560286487372064,0.831015887058879,"UC -> PG (R12)"
+"ebi-a-GCST004133","finngen_R12_L12_PYODERMA","Pyoderma (FinnGen R12)","Ulcerative colitis || id:ebi-a-GCST004133","MR Egger",51,-0.0515034859359868,0.161521853454678,0.751185036370109,"UC -> PG (R12)"
+"ebi-a-GCST004133","finngen_R12_L12_PYODERMA","Pyoderma (FinnGen R12)","Ulcerative colitis || id:ebi-a-GCST004133","Weighted median",51,-0.0389790652450188,0.0827979608610245,0.637802668020018,"UC -> PG (R12)"
+"ebi-a-GCST004133","finngen_R12_L12_PYODERMA","Pyoderma (FinnGen R12)","Ulcerative colitis || id:ebi-a-GCST004133","Weighted mode",51,-0.0926724338260176,0.122959463064745,0.454574353861553,"UC -> PG (R12)"

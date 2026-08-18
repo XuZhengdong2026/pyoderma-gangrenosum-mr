@@ -1,0 +1,43 @@
+MR-PRESSO (1,000 permutations; 0.05 outlier threshold)
+CD -> PG (FinnGen R5), harmonised SNPs: 79
+------------------------------------------------------------
+$`Main MR results`
+       Exposure       MR Analysis Causal Estimate         Sd   T-stat
+1 beta.exposure               Raw       0.2131769 0.08264281 2.579497
+2 beta.exposure Outlier-corrected              NA         NA       NA
+     P-value
+1 0.01177355
+2         NA
+
+$`MR-PRESSO results`
+$`MR-PRESSO results`$`Global Test`
+$`MR-PRESSO results`$`Global Test`$RSSobs
+[1] 113.3059
+
+$`MR-PRESSO results`$`Global Test`$Pvalue
+[1] 0.01
+
+
+
+
+UC -> PG (FinnGen R5), harmonised SNPs: 52
+------------------------------------------------------------
+$`Main MR results`
+       Exposure       MR Analysis Causal Estimate         Sd     T-stat
+1 beta.exposure               Raw     -0.02048187 0.09515231 -0.2152535
+2 beta.exposure Outlier-corrected              NA         NA         NA
+    P-value
+1 0.8304282
+2        NA
+
+$`MR-PRESSO results`
+$`MR-PRESSO results`$`Global Test`
+$`MR-PRESSO results`$`Global Test`$RSSobs
+[1] 60.03986
+
+$`MR-PRESSO results`$`Global Test`$Pvalue
+[1] 0.256
+
+
+
+

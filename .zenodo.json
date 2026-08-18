@@ -1,0 +1,35 @@
+{
+  "title": "Analysis code and data: genetic liability to Crohn's disease, but not ulcerative colitis, is associated with increased risk of pyoderma gangrenosum (two-sample Mendelian randomization and integrated gut-skin transcriptomics)",
+  "description": "Analysis code, input-data manifest and reproducible result tables for a Mendelian randomization (MR) and transcriptomics study of pyoderma gangrenosum (PG) and inflammatory bowel disease (IBD). The repository covers instrument selection and two-sample MR of IBD, Crohn's disease (CD) and ulcerative colitis (UC) against FinnGen R5/R12 PG; formal CD-UC contrast; two-step mediation through blood-cell traits and 32 immune-cell subsets; specificity analyses against six dermatological outcomes; integrated PG skin (GSE298908) and IBD gut (GSE75214) transcriptomics with seven pre-specified inflammatory programmes; independent validation in GSE280220 (NanoString nCounter, 5 PG versus 8 healthy skin); a transcriptome-anchored in silico ODE model with parameter-uncertainty and graded ablation; exploratory cis-pQTL drug-target MR with colocalization; and reproducibility outputs (ODE summary, full Enrichr tables, seed-fixed MR-PRESSO R5 output). Software requirements are listed in requirements.txt. Input datasets are public (OpenGWAS, GWAS Catalog, FinnGen, NCBI GEO) and itemised in data_manifest/input_data_manifest.csv. Version v1.1.0 adds the independent GSE280220 validation, the ODE/Enrichr/MR-PRESSO reproducibility outputs and the corresponding scripts and supplementary tables.",
+  "creators": [
+    {"name": "Xu, Zhengdong", "affiliation": "Department of Burns & Reconstructive Surgery, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China", "orcid": "0009-0009-1389-0480"},
+    {"name": "Yu, Kairan", "affiliation": "Anhui Medical University, Hefei, Anhui, China", "orcid": "0009-0003-7712-567X"},
+    {"name": "Wang, Fei", "affiliation": "Department of Burns & Reconstructive Surgery, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China", "orcid": "0000-0002-9007-418X"},
+    {"name": "Liu, Sheng", "affiliation": "Department of Burns & Reconstructive Surgery, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China", "orcid": "0009-0003-6381-1580"},
+    {"name": "Chen, Xulin", "affiliation": "Department of Burns & Reconstructive Surgery, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China", "orcid": "0000-0003-0508-3581"}
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "keywords": [
+    "pyoderma gangrenosum",
+    "inflammatory bowel disease",
+    "Crohn's disease",
+    "ulcerative colitis",
+    "Mendelian randomization",
+    "gut-skin axis",
+    "transcriptomics",
+    "in silico model",
+    "bioinformatics"
+  ],
+  "language": "eng",
+  "version": "v1.1.0",
+  "publication_date": "2026-08-18",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.21947642",
+      "relation": "isPreviousVersionOf",
+      "resource_type": "software"
+    }
+  ]
+}

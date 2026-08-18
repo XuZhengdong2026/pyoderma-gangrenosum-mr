@@ -1,0 +1,17 @@
+target,exposure_id,cohort,OR,ci_low,ci_high,p
+"CXCL8 (IL-8) pQTL
+Folkersen 2020, n = 21,758",ebi-a-GCST90011994,R5,1.175,0.123,11.22,0.8884
+"CXCL8 (IL-8) pQTL
+Folkersen 2020, n = 21,758",ebi-a-GCST90011994,R12,0.87,0.209,3.62,0.8483
+"CXCL8 (IL-8) pQTL
+Sun 2018, n = 3,301",prot-a-749,R5,1.1,0.227,5.33,0.9055
+"CXCL8 (IL-8) pQTL
+Sun 2018, n = 3,301",prot-a-749,R12,0.912,0.337,2.47,0.8569
+"IL-1RA (IL1RN) pQTL
+Sun 2018, n = 3,301",prot-a-1504,R5,0.567,0.236,1.36,0.2053
+"IL-1RA (IL1RN) pQTL
+Sun 2018, n = 3,301",prot-a-1504,R12,0.706,0.405,1.23,0.2177
+"TNF pQTL
+Sun 2018, n = 3,301",prot-a-3029,R5,2.781,0.603,12.84,0.1896
+"TNF pQTL
+Sun 2018, n = 3,301",prot-a-3029,R12,2.618,1.014,6.76,0.0467

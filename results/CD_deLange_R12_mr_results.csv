@@ -1,0 +1,5 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval","exposure_name"
+"ebi-a-GCST004132","finngen_R12_L12_PYODERMA","Pyoderma (FinnGen R12)","Crohn's disease || id:ebi-a-GCST004132","Inverse variance weighted",76,0.11158705919333,0.0499606282402026,0.0255159955737981,"CD -> PG (R12)"
+"ebi-a-GCST004132","finngen_R12_L12_PYODERMA","Pyoderma (FinnGen R12)","Crohn's disease || id:ebi-a-GCST004132","MR Egger",76,-0.0212908406126458,0.133493207810723,0.87371730188239,"CD -> PG (R12)"
+"ebi-a-GCST004132","finngen_R12_L12_PYODERMA","Pyoderma (FinnGen R12)","Crohn's disease || id:ebi-a-GCST004132","Weighted median",76,0.0480055837568198,0.0718952875351722,0.504315339279117,"CD -> PG (R12)"
+"ebi-a-GCST004132","finngen_R12_L12_PYODERMA","Pyoderma (FinnGen R12)","Crohn's disease || id:ebi-a-GCST004132","Weighted mode",76,-0.0442864376101131,0.115597225092785,0.702722034479869,"CD -> PG (R12)"

@@ -1,0 +1,11 @@
+n_PG: 5
+n_healthy: 8
+n_Sweet: 2
+n_genes_panel: 599
+n_shared_correlation: 569
+spearman_rho: 0.7399
+spearman_p: 1.092484709349579e-99
+pearson_r: 0.7813
+pearson_p: 3.490888840187555e-118
+same_sign_proportion: 0.7944
+missing_key_genes: ['CXCL8', 'CXCL3', 'CXCL5', 'CXCL6', 'CSF3', 'COL11A1', 'IFI44', 'IFI6', 'IFI44L']

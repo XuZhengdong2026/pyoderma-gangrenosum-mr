@@ -1,0 +1,17 @@
+# R packages
+R>=4.6.1
+TwoSampleMR==0.7.9
+ieugwasr
+MRPRESSO
+dplyr
+coloc
+hugene10sttranscriptcluster.db
+
+# Python packages
+numpy
+scipy
+matplotlib
+pandas
+pydeseq2==0.5.4
+Pillow
+pypdf
